@@ -12,7 +12,7 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             <div class="w-10 h-10 bg-gradient-to-br from-[#d20202] to-[#a58d00] rounded-lg flex items-center justify-center">
               <Compass class="w-6 h-6 text-[#f6f4f4]" />
             </div>
-            <span class="text-2xl font-bold">Isla de Kapi</span>
+            <span class="text-2xl font-bold">La Isla de Kapi</span>
           </div>
           <div class="flex items-center gap-4">
             <button class="px-6 py-2 border border-[#a58d00] text-[#a58d00] rounded-lg hover:bg-[#a58d00] hover:text-[#000000] transition-all">
@@ -37,7 +37,7 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             <div class="absolute bottom-0 left-0 w-64 h-64 bg-[#001eff]/20 rounded-full blur-3xl"></div>
             <div class="relative z-10">
               <div class="inline-block px-4 py-2 bg-[#a58d00]/20 border border-[#a58d00] rounded-full text-[#a58d00] text-sm font-semibold mb-6">
-                Aventura Épica 2024
+                Ponte a hacer monadas como Kapi!
               </div>
               <h1 class="text-6xl lg:text-7xl font-bold mb-6 leading-tight">
                 Descubre los<br/>
@@ -45,12 +45,12 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
                 <span class="text-[#a58d00]">Isla de Kapi</span>
               </h1>
               <p class="text-xl text-[#f6f4f4]/70 mb-8 max-w-2xl leading-relaxed">
-                Embárcate en una aventura inolvidable donde cada decisión cuenta y cada rincón esconde un misterio por resolver.
+                Acompaña a Kapi en su misión por recuperar la reliquia sagrada de su aldea, enfrentando desafíos, enemigos y misterios ancestrales.
               </p>
               <div class="flex flex-wrap gap-4">
                 <button class="px-8 py-4 bg-[#d20202] text-[#f6f4f4] rounded-xl hover:bg-[#d20202]/80 transition-all flex items-center gap-3 text-lg font-semibold">
                   <Download class="w-5 h-5" />
-                  Descargar Gratis
+                  Proximamente Beta en PC
                 </button>
                 <button class="px-8 py-4 border-2 border-[#001eff] text-[#001eff] rounded-xl hover:bg-[#001eff] hover:text-[#f6f4f4] transition-all text-lg font-semibold">
                   Ver Gameplay
@@ -62,15 +62,15 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
           <!-- Stats Cards -->
           <div class="lg:col-span-4 flex flex-col gap-6">
             <div class="bg-[#d20202]/10 border border-[#d20202] rounded-2xl p-6 hover:bg-[#d20202]/20 transition-all">
-              <div class="text-4xl font-bold text-[#d20202] mb-2">500K+</div>
-              <div class="text-[#f6f4f4]/70">Jugadores Activos</div>
+              <div class="text-4xl font-bold text-[#d20202] mb-2">En desarrollo</div>
+              <div class="text-[#f6f4f4]/70">Beta próximamente</div>
             </div>
             <div class="bg-[#a58d00]/10 border border-[#a58d00] rounded-2xl p-6 hover:bg-[#a58d00]/20 transition-all">
-              <div class="text-4xl font-bold text-[#a58d00] mb-2">4.9★</div>
-              <div class="text-[#f6f4f4]/70">Calificación</div>
+              <div class="text-4xl font-bold text-[#a58d00] mb-2">Juegos de casino</div>
+              <div class="text-[#f6f4f4]/70">Con un giro de chimpances</div>
             </div>
             <div class="bg-[#001eff]/10 border border-[#001eff] rounded-2xl p-6 hover:bg-[#001eff]/20 transition-all">
-              <div class="text-4xl font-bold text-[#001eff] mb-2">50+</div>
+              <div class="text-4xl font-bold text-[#001eff] mb-2">5+</div>
               <div class="text-[#f6f4f4]/70">Horas de Juego</div>
             </div>
           </div>
@@ -92,9 +92,9 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             <div class="w-16 h-16 bg-[#d20202]/20 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#d20202] transition-all">
               <Compass class="w-8 h-8 text-[#d20202] group-hover:text-[#f6f4f4]" />
             </div>
-            <h3 class="text-3xl font-bold mb-4 text-[#d20202]">Mundo Abierto Masivo</h3>
+            <h3 class="text-3xl font-bold mb-4 text-[#d20202]">Mundo de aventura</h3>
             <p class="text-lg text-[#f6f4f4]/70 leading-relaxed">
-              Explora una isla vasta llena de biomas únicos, desde selvas tropicales hasta volcanes activos. Cada zona tiene sus propios secretos y desafíos.
+              Explora la isla de kapi con lugares fantasticos como selvas, cuevas e incluso casinos, cada uno con secretos y desafíos únicos.
             </p>
           </div>
 
@@ -105,7 +105,7 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             </div>
             <h3 class="text-2xl font-bold mb-4 text-[#a58d00]">Historia Profunda</h3>
             <p class="text-[#f6f4f4]/70">
-              Descubre la mitología ancestral de Kapi a través de misiones épicas.
+              Este videojuego narra la aventura de Kapi, un mono que, tras la destrucción de su aldea y el robo de una reliquia ancestral, se embarca en una misión para recuperarla.
             </p>
           </div>
 
@@ -114,9 +114,9 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             <div class="w-16 h-16 bg-[#001eff]/20 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#001eff] transition-all">
               <Sword class="w-8 h-8 text-[#001eff] group-hover:text-[#f6f4f4]" />
             </div>
-            <h3 class="text-2xl font-bold mb-4 text-[#001eff]">Combate Dinámico</h3>
+            <h3 class="text-2xl font-bold mb-4 text-[#001eff]">Combate</h3>
             <p class="text-[#f6f4f4]/70">
-              Sistema de combate fluido con combos y habilidades especiales.
+              Enfréntate a rivales y obstáculos que pondrán a prueba tu habilidad.
             </p>
           </div>
 
@@ -125,22 +125,13 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             <div class="w-16 h-16 bg-[#d20202]/20 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#d20202] transition-all">
               <Sparkles class="w-8 h-8 text-[#d20202] group-hover:text-[#f6f4f4]" />
             </div>
-            <h3 class="text-2xl font-bold mb-4 text-[#d20202]">Magia Ancestral</h3>
+            <h3 class="text-2xl font-bold mb-4 text-[#d20202]">La reliquia</h3>
             <p class="text-[#f6f4f4]/70">
-              Domina poderes elementales y hechizos únicos de la isla.
+              Recupera la reliquia y descubre el origen del villano que amenaza la isla.
             </p>
           </div>
 
-          <!-- Feature 5 - Large -->
-          <div class="md:col-span-2 bg-gradient-to-br from-[#a58d00]/5 to-transparent border border-[#a58d00]/30 rounded-3xl p-8 hover:border-[#a58d00] transition-all group">
-            <div class="w-16 h-16 bg-[#a58d00]/20 rounded-2xl flex items-center justify-center mb-6 group-hover:bg-[#a58d00] transition-all">
-              <Users class="w-8 h-8 text-[#a58d00] group-hover:text-[#000000]" />
-            </div>
-            <h3 class="text-3xl font-bold mb-4 text-[#a58d00]">Modo Multijugador</h3>
-            <p class="text-lg text-[#f6f4f4]/70 leading-relaxed">
-              Únete con amigos en misiones cooperativas o compite en arenas PvP. La aventura es mejor cuando se comparte.
-            </p>
-          </div>
+          
         </div>
       </div>
     </section>
@@ -216,23 +207,23 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
           <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="text-center">
               <div class="w-20 h-20 bg-[#d20202]/20 border-2 border-[#d20202] rounded-full flex items-center justify-center mx-auto mb-4">
-                <span class="text-3xl font-bold text-[#d20202]">100+</span>
+                <span class="text-3xl font-bold text-[#d20202]">🍌</span>
               </div>
-              <h3 class="text-xl font-bold mb-2">Logros Únicos</h3>
-              <p class="text-[#f6f4f4]/70">Desafíos para todos los estilos</p>
+              <h3 class="text-xl font-bold mb-2">Coleccionables</h3>
+              <p class="text-[#f6f4f4]/70">Colecciona las bananas esparcidas por el mundo</p>
             </div>
 
             <div class="text-center">
               <div class="w-20 h-20 bg-[#a58d00]/20 border-2 border-[#a58d00] rounded-full flex items-center justify-center mx-auto mb-4">
-                <span class="text-3xl font-bold text-[#a58d00]">50+</span>
+                <span class="text-3xl font-bold text-[#a58d00]">🐒</span>
               </div>
-              <h3 class="text-xl font-bold mb-2">Objetos Legendarios</h3>
-              <p class="text-[#f6f4f4]/70">Equipo épico por descubrir</p>
+              <h3 class="text-xl font-bold mb-2">Personajes memorables</h3>
+              <p class="text-[#f6f4f4]/70">Un cast de monos apostadores</p>
             </div>
 
             <div class="text-center">
               <div class="w-20 h-20 bg-[#001eff]/20 border-2 border-[#001eff] rounded-full flex items-center justify-center mx-auto mb-4">
-                <span class="text-3xl font-bold text-[#001eff]">20+</span>
+                <span class="text-3xl font-bold text-[#001eff]">🎲</span>
               </div>
               <h3 class="text-xl font-bold mb-2">Jefes Épicos</h3>
               <p class="text-[#f6f4f4]/70">Batallas memorables</p>
@@ -257,10 +248,10 @@ import { Compass, Scroll, Sword, Sparkles, Users, Trophy, Download, Play } from 
             <Download class="w-6 h-6" />
             Descargar para PC
           </button>
-          <button class="px-12 py-5 bg-[#a58d00] text-[#000000] rounded-2xl hover:bg-[#a58d00]/80 transition-all text-xl font-bold flex items-center gap-3">
+          <!--<button class="px-12 py-5 bg-[#a58d00] text-[#000000] rounded-2xl hover:bg-[#a58d00]/80 transition-all text-xl font-bold flex items-center gap-3">
             <Download class="w-6 h-6" />
             Descargar para Consola
-          </button>
+          </button>-->
         </div>
         <p class="text-[#f6f4f4]/50 mt-8">Disponible en PC, PlayStation, Xbox y Nintendo Switch</p>
       </div>
